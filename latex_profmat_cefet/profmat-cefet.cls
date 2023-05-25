@@ -646,7 +646,7 @@
 {%
   \begin{center}
     \textsc{\TheUniversity \\[1mm] PROFMAT - Mestrado Profissional em Matemática em Rede Nacional} \\[9mm]
-    \@DrawUNILogo
+            \includegraphics[height=7\baselineskip]{figs/logoicatufal}
   \end{center}
   \begin{textblock*}{\linewidth}(0cm,0.03\textheight)
     \begin{center}
